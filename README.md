@@ -13,7 +13,7 @@ The map shows the average altitude of the road (meters) as well the top speed of
 
 _How to do it:_ 
 * I used the [SensorLog](https://itunes.apple.com/us/app/sensorlog/id388014573?mt=8) app for iPhone
-* Before starting my ride, activate the log feature (that makes a rich .csv file)
+* Before starting your ride, activate the log feature (that makes a rich .csv file)
 * Once stopped, transfer the log file(s) from the iPhone to a Mac (via iTunes)
 * Then, upload the .csv file to the Uber Engineering's [Kepler.gl](https://uber.github.io/kepler.gl) demo application 
 
