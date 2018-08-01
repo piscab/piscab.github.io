@@ -34,6 +34,7 @@
 Parallel Programming and OptimiZation for Intel Architecture (I)  
 **Self-Driving Car Engineer, Udacity (U)**  
 
+---
 
 #### Platforms
 (C) Coursera  
