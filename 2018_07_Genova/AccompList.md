@@ -31,8 +31,8 @@
 * Writing in the Sciences, Stanford University (S)  
 
 ### 2017
-* Parallel Programming and OptimiZation for Intel Architecture (I)  
-* **Self-Driving Car Engineer, Udacity (U)** 
+* Parallel Programming and Optimization for Intel Architecture (P)  
+* **Self-Driving Car Engineer, Udacity** (U)  
 
 ### 2018
 * **International Summer School on Deep Learning** (Genova, Italy)
@@ -40,4 +40,4 @@
 ---  
 
 #### Platforms:  
-_(C) Coursera, (I) Colfax, (M) MIT Digital Platform, (S) Stanford Online, (T) Caltech Telecourse, (U) Udacity_
+_(C) Coursera, (M) MIT Digital Platform, (S) Stanford Online, (P) Colfax, (T) Caltech Telecourse, (U) Udacity_
