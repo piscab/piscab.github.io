@@ -31,11 +31,6 @@
 
 
 Platforms:
-(C)  Coursera
-(I) Colfax
-(M) MIT Digital Platform
-(S) Stanford Online
-(T) Caltech Telecourse
-(U) Udacity
+(C) Coursera, (I) Colfax, (M) MIT Digital Platform, (S) Stanford Online, (T) Caltech Telecourse, (U) Udacity
 
 2018/05: International Summer School on Deep Learning (Genova, Italy)
