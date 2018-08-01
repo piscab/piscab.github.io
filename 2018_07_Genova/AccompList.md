@@ -35,7 +35,7 @@
 * [Self-Driving Car Engineer, Udacity](Udacity/201711%20UdacitySDC.pdf), Udacity (U)  
 
 ### 2018
-* [International Summer School on Deep Learning](_DL2018.pdf) (Univ. of Genova, Italy)
+* [International Summer School on Deep Learning](_DL2018.pdf) (University of Genova and IRDTA)
 
 ---  
 
