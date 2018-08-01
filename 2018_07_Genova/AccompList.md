@@ -1,9 +1,8 @@
-## Independent Coursework
-(Statements of Accomplishment [here](https://github.com/piscab/piscab.github.io/tree/master/2018_07_Genova))   
+## Independent Coursework  
 
 ### 2013  
 * [Cryptography I](https://github.com/piscab/piscab.github.io/blob/master/2018_07_Genova/Coursera/201303%20crypto.pdf), Stanford University (C)  
-* Game Theory, Stanford University (C)  
+* [Game Theory](Coursera/201303%20gametheory.pdf), Stanford University (C)  
 * Learning from Data, Caltech (T)  
 * A Beginner's Guide to Irrational Behavior, Duke University (C) 
 
