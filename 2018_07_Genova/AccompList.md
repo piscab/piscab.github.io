@@ -1,6 +1,6 @@
 ## Independent Coursework
 
--
+--
 
 ### 2013  
 * Cryptography I, Stanford University (C)  
