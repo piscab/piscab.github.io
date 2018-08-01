@@ -1,21 +1,21 @@
 ## Independent Coursework  
 
 ### 2013  
-* [Cryptography I](https://github.com/piscab/piscab.github.io/blob/master/2018_07_Genova/Coursera/201303%20crypto.pdf), Stanford University (C)  
+* [Cryptography I](Coursera/201303%20crypto.pdf), Stanford University (C)  
 * [Game Theory](Coursera/201303%20gametheory.pdf), Stanford University (C)  
 * Learning from Data, Caltech (T)  
-* A Beginner's Guide to Irrational Behavior, Duke University (C) 
+* [A Beginner's Guide to Irrational Behavior](Coursera/201306%20behavioralecon.pdf), Duke University (C) 
 
 ### 2014
-* Think again: How to Reason and Argue, Duke University (C)  
-* Machine Learning, Stanford University (C)    
-* The Science of Gastronomy - The Honk Kong University of Science and Technology (C)  
-* Algorithms: Design and Analysis Part 1, Stanford University (C)  
-* Algorithms: Design and Analysis Part 2, Stanford University (C)  
-* Questionnaire Design for Social Surveys, University of Michigan (C)  
+* [Think again: How to Reason and Argue](Coursera/201402%20thinkagain.pdf), Duke University (C)  
+* [Machine Learning](Coursera/201404%20ml.pdf), Stanford University (C)    
+* [The Science of Gastronomy](Coursera/201405%20gastronomy%20.pdf) - The Honk Kong University of Science and Technology (C)  
+* [Algorithms: Design and Analysis Part 1](Coursera/201407%20algo.pdf), Stanford University (C)  
+* [Algorithms: Design and Analysis Part 2](Coursera/201408%20algo2.pdf), Stanford University (C)  
+* [Questionnaire Design for Social Surveys](Coursera/201412%20questionnairedesign.pdf), University of Michigan (C)  
 
 ### 2015
-* Process Mining: Data Science in Action, Eindhoven University (C)  
+* [Process Mining: Data Science in Action](Coursera/201501%20procmin.pdf), Eindhoven University (C)  
 * Image and Video Processing, Duke University (C)  
 * MATLAB, Vanderbilt University (C)  
 * R Programming, Johns Hopkins Bloomberg School of Public Health (C)  
