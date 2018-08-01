@@ -35,7 +35,12 @@ Parallel Programming and OptimiZation for Intel Architecture (I)
 **Self-Driving Car Engineer, Udacity (U)**  
 
 
-Platforms:
-(C) Coursera, (I) Colfax, (M) MIT Digital Platform, (S) Stanford Online, (T) Caltech Telecourse, (U) Udacity
+#### Platforms
+(C) Coursera  
+(I) Colfax  
+(M) MIT Digital Platform  
+(S) Stanford Online  
+(T) Caltech Telecourse  
+(U) Udacity
 
 2018/05: International Summer School on Deep Learning (Genova, Italy)
