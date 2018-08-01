@@ -1,5 +1,5 @@
 ## Independent Coursework
-![Statements of Accomplishment](github.com/piscab/piscab.github.io/tree/master/2018_07_Genova/)  
+(Statements of Accomplishment [here](github.com/piscab/piscab.github.io/tree/master/2018_07_Genova/))   
 
 ### 2013  
 * Cryptography I, Stanford University (C)  
