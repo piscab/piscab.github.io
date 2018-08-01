@@ -1,7 +1,5 @@
 ## Independent Coursework
 
----  
-
 ### 2013  
 * Cryptography I, Stanford University (C)  
 * Game Theory, Stanford University (C)  
@@ -42,9 +40,4 @@
 ---  
 
 #### Platforms:  
-_(C) Coursera  
-(I) Colfax  
-(M) MIT Digital Platform  
-(S) Stanford Online  
-(T) Caltech Telecourse  
-(U) Udacity_
+_(C) Coursera, (I) Colfax, (M) MIT Digital Platform, (S) Stanford Online, (T) Caltech Telecourse, (U) Udacity_
