@@ -9,7 +9,7 @@
 ### 2014
 * [Think again: How to Reason and Argue](Coursera/201402%20thinkagain.pdf), Duke University (C)  
 * [Machine Learning](Coursera/201404%20ml.pdf), Stanford University (C)    
-* [The Science of Gastronomy](Coursera/201405%20gastronomy%20.pdf) - The Honk Kong University of Science and Technology (C)  
+* [The Science of Gastronomy](Coursera/201405%20gastronomy%20.pdf), The Honk Kong University of Science and Technology (C)  
 * [Algorithms: Design and Analysis Part 1](Coursera/201407%20algo.pdf), Stanford University (C)  
 * [Algorithms: Design and Analysis Part 2](Coursera/201408%20algo2.pdf), Stanford University (C)  
 * [Questionnaire Design for Social Surveys](Coursera/201412%20questionnairedesign.pdf), University of Michigan (C)  
@@ -27,15 +27,15 @@
 ### 2016
 * [Game Theory II: Advanced Applications](Coursera/201602%20gametheory2.pdf), Stanford University (C)  
 * [Biology Meets Programming: Bioinformatics for Beginners](Coursera/201603%20algobioprogramming.pdf), University of California San Diego (C)  
-* Statistical Learning, Stanford University (S)  
-* Writing in the Sciences, Stanford University (S)  
+* [Statistical Learning](StanfordOnLine/201604%20StatLearning.pdf), Stanford University (S)  
+* [Writing in the Sciences](StanfordOnLine/201611%20SciWrite.pdf), Stanford University (S)  
 
 ### 2017
 * [Parallel Programming and Optimization for Intel Architecture](Others/201704%20ParallelComputng.pdf) (P)  
-* [**Self-Driving Car Engineer, Udacity**](Udacity/201711%20UdacitySDC.pdf), Udacity (U)  
+* [Self-Driving Car Engineer, Udacity](Udacity/201711%20UdacitySDC.pdf), Udacity (U)  
 
 ### 2018
-* [**International Summer School on Deep Learning**](_DL2018.pdf) (Univ. of Genova, Italy)
+* [International Summer School on Deep Learning](_DL2018.pdf) (Univ. of Genova, Italy)
 
 ---  
 
