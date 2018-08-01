@@ -34,7 +34,10 @@
 
 ### 2017
 Parallel Programming and OptimiZation for Intel Architecture (I)  
-**Self-Driving Car Engineer, Udacity (U)**  
+Self-Driving Car Engineer, Udacity (U) 
+
+### 2018
+International Summer School on Deep Learning (Genova, Italy)
 
 ---  
 
@@ -45,5 +48,3 @@ Parallel Programming and OptimiZation for Intel Architecture (I)
 (S) Stanford Online  
 (T) Caltech Telecourse  
 (U) Udacity
-
-2018/05: International Summer School on Deep Learning (Genova, Italy)
