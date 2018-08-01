@@ -1,6 +1,6 @@
 ## Independent Coursework
 
---
+---  
 
 ### 2013  
 * Cryptography I, Stanford University (C)  
@@ -36,7 +36,7 @@
 Parallel Programming and OptimiZation for Intel Architecture (I)  
 **Self-Driving Car Engineer, Udacity (U)**  
 
--
+---  
 
 #### Platforms:  
 (C) Coursera  
