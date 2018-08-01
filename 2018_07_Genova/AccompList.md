@@ -1,5 +1,7 @@
 ## Independent Coursework
 
+-
+
 ### 2013  
 * Cryptography I, Stanford University (C)  
 * Game Theory, Stanford University (C)  
@@ -34,9 +36,9 @@
 Parallel Programming and OptimiZation for Intel Architecture (I)  
 **Self-Driving Car Engineer, Udacity (U)**  
 
----
+-
 
-#### Platforms
+#### Platforms:  
 (C) Coursera  
 (I) Colfax  
 (M) MIT Digital Platform  
