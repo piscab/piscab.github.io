@@ -9,7 +9,7 @@ Things you can quickly try yourself, with little effort.
 This picture displays some data collected while riding a scooter from Gerakas beach to the top of a hill near Tsilivi.   
 The map shows the average altitude of the road (meters) as well the top speed of the scooter (m/s).  
 
-![Image](DayTrip.png)  
+![Image](2018_07_Zante/DayTrip.png)  
 
 _How to do it:_ 
 * I used the [SensorLog](https://itunes.apple.com/us/app/sensorlog/id388014573?mt=8) app for iPhone
