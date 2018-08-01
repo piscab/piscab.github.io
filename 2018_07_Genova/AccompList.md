@@ -1,9 +1,9 @@
-## Independent Coursework  
+## Independent Courseworks  
 
 ### 2013  
 * [Cryptography I](Coursera/201303%20crypto.pdf), Stanford University (C)  
 * [Game Theory](Coursera/201303%20gametheory.pdf), Stanford University (C)  
-* Learning from Data, Caltech (T)  
+* [Learning from Data](Others/201303%20ML_Caltech.pdf), Caltech (T)  
 * [A Beginner's Guide to Irrational Behavior](Coursera/201306%20behavioralecon.pdf), Duke University (C) 
 
 ### 2014
@@ -16,26 +16,26 @@
 
 ### 2015
 * [Process Mining: Data Science in Action](Coursera/201501%20procmin.pdf), Eindhoven University (C)  
-* Image and Video Processing, Duke University (C)  
-* MATLAB, Vanderbilt University (C)  
-* R Programming, Johns Hopkins Bloomberg School of Public Health (C)  
-* Tackling the Challenges of Big Data, Massachusetts Institute of Technology (M)  
-* Computational Neuroscience, University of Washington (C)  
-* Mining Massive Datasets, Stanford University (C)  
-* Social and Economic Networks: Models and Analysis, Stanford University (C) 
+* [Image and Video Processing](Coursera/201503%20images.pdf), Duke University (C)  
+* [MATLAB](Coursera/201506%20matlab.pdf), Vanderbilt University (C)  
+* [R Programming](Coursera/201506%20rprog.pdf), Johns Hopkins Bloomberg School of Public Health (C)  
+* [Tackling the Challenges of Big Data](Others/201506%20MIT.pdf), Massachusetts Institute of Technology (M)  
+* [Computational Neuroscience](Coursera/201507%20compneuro.pdf), University of Washington (C)  
+* [Mining Massive Datasets](Coursera/201511%20mmds.pdf), Stanford University (C)  
+* [Social and Economic Networks: Models and Analysis](Coursera/201511%20networksonline.pdf), Stanford University (C) 
 
 ### 2016
-* Game Theory II: Advanced Applications, Stanford University (C)  
-* Biology Meets Programming: Bioinformatics for Beginners, University of California San Diego (C)  
+* [Game Theory II: Advanced Applications](Coursera/201602%20gametheory2.pdf), Stanford University (C)  
+* [Biology Meets Programming: Bioinformatics for Beginners](Coursera/201603%20algobioprogramming.pdf), University of California San Diego (C)  
 * Statistical Learning, Stanford University (S)  
 * Writing in the Sciences, Stanford University (S)  
 
 ### 2017
-* Parallel Programming and Optimization for Intel Architecture (P)  
-* **Self-Driving Car Engineer, Udacity** (U)  
+* [Parallel Programming and Optimization for Intel Architecture](Others/201704%20ParallelComputng.pdf) (P)  
+* [**Self-Driving Car Engineer, Udacity**](Udacity/201711%20UdacitySDC.pdf), Udacity (U)  
 
 ### 2018
-* **International Summer School on Deep Learning** (Genova, Italy)
+* [**International Summer School on Deep Learning**](_DL2018.pdf) (Univ. of Genova, Italy)
 
 ---  
 
