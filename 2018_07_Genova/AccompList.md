@@ -31,7 +31,7 @@
 * [Writing in the Sciences](StanfordOnLine/201611%20SciWrite.pdf), Stanford University (S)  
 
 ### 2017
-* [Parallel Programming and Optimization for Intel Architecture](Others/201704%20ParallelComputng.pdf) (P)  
+* [Parallel Programming and Optimization for Intel Architecture](Others/201704%20ParallelComputng.pdf), Colfax Intl. (P)  
 * [Self-Driving Car Engineer, Udacity](Udacity/201711%20UdacitySDC.pdf), Udacity (U)  
 
 ### 2018
