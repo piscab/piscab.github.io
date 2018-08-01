@@ -1,6 +1,6 @@
 ## Independent Coursework
 
-2013/03: ![Cryptography](Coursera/201303%20crypto.pdf) I, Stanford University (C)  
+2013/03: ![Cryptography](https://github.com/piscab/piscab.github.io/blob/master/2018_07_Genova/Coursera/201303%20crypto.pdf) I, Stanford University (C)  
 2013/03: Game Theory, Stanford University (C)  
 2013/03: Learning from Data, Caltech (T)  
 2013/06: A Beginner's Guide to Irrational Behavior, Duke University (C)  
