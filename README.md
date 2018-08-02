@@ -14,7 +14,7 @@ More than 1,000 people went there to follow 26 professors at the [2nd Internatio
 
 _How to get there:_ 
 * To understand DL, many way are possible.
-* Genova is just a stop in my path. My whole previous route is available [here](2018_07_Genova/AccompList.md). 
+* Genova is just a stop in the path. My previous route is available [here](2018_07_Genova/AccompList.md). 
 
 What's your current path to DL?
 
