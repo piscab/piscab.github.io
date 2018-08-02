@@ -16,7 +16,7 @@ _How to get there:_
 * To understand DL, many way are possible.
 * Genova is just a stop in the path. My previous route is available [here](2018_07_Genova/AccompList.md). 
 
-What's your current path to DL?
+What's your current way to grab DL?
 
 ---
 
