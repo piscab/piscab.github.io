@@ -6,11 +6,9 @@ Things you can quickly try yourself, with little effort.
 
 ## July, 2018 - Deep learning summer school (Genova)  
 
-Fascinating!  
+[Fascinating](2018_07_Genova/_DL2018.pdf)!  
 You know always a new speaker will come along and truly dazzle me with their intelligence and knowledge.  
 More than 1,000 people went there to follow 26 professors at the [2nd International Summer School on Deep Learning](http://grammars.grlmc.com/DeepLearn2018/).       
-
-![Image](2018_07_Genova/_DL2018.png)  
 
 _How to get there:_ 
 * To understand DL, many way are possible.
