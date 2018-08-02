@@ -4,7 +4,23 @@ Things you can quickly try yourself, with little effort.
 
 ---
 
-## July, 2018 - Zakynthos  
+## July, 2018 - Deep learning summer school (Genova)  
+
+Fascinating!  
+You know always a new speaker will come along and truly dazzle me with their intelligence and knowledge.  
+More than 1,000 people went there to follow 26 professors at the [2nd International Summer School on Deep Learning](http://grammars.grlmc.com/DeepLearn2018/).     
+
+![Image](2018_07_Genova/_DL2018.png)  
+
+_How to get there:_ 
+* To understand DL, many way are possible.
+* Genova is just a stop in my path. My whole previous route is available [here](2018_07_Genova/AccompList.md). 
+
+What's your path to DL?
+
+---
+
+## July, 2018 - Map your ride (Zakynthos)  
 
 This picture displays some data collected while riding a scooter from Gerakas beach to the top of a hill near Tsilivi.   
 The map shows the average altitude of the road (meters) as well the top speed of the scooter (m/s).  
