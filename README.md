@@ -8,7 +8,7 @@ Things you can quickly try yourself, with little effort.
 
 Fascinating!  
 You know always a new speaker will come along and truly dazzle me with their intelligence and knowledge.  
-More than 1,000 people went there to follow 26 professors at the [2nd International Summer School on Deep Learning](http://grammars.grlmc.com/DeepLearn2018/){ width: 50px; }.     
+More than 1,000 people went there to follow 26 professors at the [2nd International Summer School on Deep Learning](http://grammars.grlmc.com/DeepLearn2018/).     
 
 ![Image](2018_07_Genova/_DL2018.png)  
 
