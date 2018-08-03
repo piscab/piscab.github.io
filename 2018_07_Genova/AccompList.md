@@ -1,5 +1,7 @@
 ## Independent Courseworks  
 
+---
+
 ### 2013  
 * [Cryptography I](Coursera/201303%20crypto.pdf), Stanford University (C)  
 * [Game Theory](Coursera/201303%20gametheory.pdf), Stanford University (C)  
@@ -41,3 +43,7 @@
 
 #### Platforms:  
 _(C) Coursera, (M) MIT Digital Platform, (S) Stanford Online, (P) Colfax, (T) Caltech Telecourse, (U) Udacity_
+
+---
+  
+[home](http://github.com/piscab/piscab.github.io)
