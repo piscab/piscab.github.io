@@ -4,7 +4,8 @@ Things you can quickly try yourself, with little effort.
 
 ---
 
-## July, 2018 - Deep learning summer school (Genova)  
+## July, 2018 - Deep learning summer school (Genova) 
+  
 
 [Fascinating](https://github.com/piscab/piscab.github.io/blob/master/2018_07_Genova/_DL2018.pdf)! 
   
