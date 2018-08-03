@@ -46,4 +46,4 @@ _(C) Coursera, (M) MIT Digital Platform, (S) Stanford Online, (P) Colfax, (T) Ca
 
 ---
   
-[home](http://github.com/piscab/piscab.github.io)
+[Home](piscab.github.io)
