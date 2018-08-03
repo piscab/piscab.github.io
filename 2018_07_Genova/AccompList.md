@@ -43,7 +43,3 @@
 
 #### Platforms:  
 _(C) Coursera, (M) MIT Digital Platform, (S) Stanford Online, (P) Colfax, (T) Caltech Telecourse, (U) Udacity_
-
----
-  
-[Home](https://piscab.github.io)
