@@ -37,7 +37,7 @@
 * [Self-Driving Car Engineer Nanodegree](Udacity/201711%20UdacitySDC.pdf), Udacity (U)  
 
 ### 2018
-* [International Summer School on Deep Learning](_DL2018.pdf), University of Genova and IRDTA
+* [International Summer School on Deep Learning](https://github.com/piscab/piscab.github.io/blob/master/2018_07_Genova/_DL2018.pdf), University of Genova and IRDTA
 
 ---  
 
