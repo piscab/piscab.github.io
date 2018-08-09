@@ -34,7 +34,7 @@
 
 ### 2017
 * [Parallel Programming and Optimization for Intel Architecture](Others/201704%20ParallelComputng.pdf), Colfax Intl. (P)  
-* [Self-Driving Car Engineer, Udacity](Udacity/201711%20UdacitySDC.pdf), Udacity (U)  
+* [Self-Driving Car Engineer Nanodegree](Udacity/201711%20UdacitySDC.pdf), Udacity (U)  
 
 ### 2018
 * [International Summer School on Deep Learning](_DL2018.pdf) (University of Genova and IRDTA)
